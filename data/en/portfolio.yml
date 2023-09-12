@@ -16,6 +16,9 @@ filtermenu :
   - name      : Real-Estate
     category  : rs
     
+  - name      : Events
+    category  : events
+    
   - name      : Service
     category  : service
 
@@ -95,6 +98,28 @@ item   :
   - title : Video Marketing
     image : images/portfolio/service7.gif
     category  : service
+  
+  - title : Mountain Journey
+    image : images/portfolio/travel1.gif
+    category  : travel
+  
+  - title : Cycling Bike Race
+    image : images/portfolio/events1.gif
+    category  : events
+    
+  - title : Christmas Season Promo
+    image : images/portfolio/events2.gif
+    category  : events
+    
+  - title : Rkitchen Christma Promo
+    image : images/portfolio/events3.gif
+    category  : events
+    
+  - title : World Food Day
+    image : images/portfolio/events4.gif
+    category  : events
+    
+  
   
  
  
