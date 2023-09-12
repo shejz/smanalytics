@@ -52,3 +52,18 @@ item   :
   - title : Grocery Mobile Apps
     image : images/portfolio/e9.gif
     category  : ecom
+    
+  - title : Healthy Diet
+    image : images/portfolio/food1.gif
+    category  : food
+    
+  - title : Restaurant Promotional Ads
+    image : images/portfolio/food2.gif
+    category  : food
+    
+  - title : Ginger Latte
+    image : images/portfolio/food3.gif
+    category  : food  
+    
+    
+    
