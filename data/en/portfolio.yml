@@ -102,7 +102,7 @@ item   :
     image : images/portfolio/service7.gif
     category  : service
     
-  - title : Digital Marketing
+  - title : Video Marketing Cover
     image : images/portfolio/service8.gif
     category  : service
   
@@ -126,9 +126,23 @@ item   :
     image : images/portfolio/events4.gif
     category  : events
     
-  - title : Healthcare Apps
-    image : images/portfolio/h1.gif
-    category  : health
+  - title : Lumina Homes Gazebo
+    image : images/portfolio/rs1.gif
+    category  : rs
+    
+  - title : Lumina Armina Homes
+    image : images/portfolio/rs2.gif
+    category  : rs
+    
+  - title : Lumina Homes Ads
+    image : images/portfolio/rs3.gif
+    category  : rs
+    
+  - title : Lumina Homes Ads
+    image : images/portfolio/rs4.gif
+    category  : rs
+    
+  
     
   
   
