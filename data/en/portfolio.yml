@@ -4,39 +4,56 @@ title   : WORK SHOWCASE.
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 
 filtermenu :
-  - name      : Photography
-    category  : photography
 
-  - name      : Ios App
-    category  : ios
+  - name      : Ecommerce
+    category  : ecommerce
+  
+  - name      : Food
+    category  : food
 
-  - name      : Development
-    category  : development
+  - name      : Travel
+    category  : travel
 
-  - name      : Design
-    category  : design
+  - name      : Real Estate
+    category  : realstate
+    
+  - name      : Events
+    category  : events
+  
+  - name      : Service
+    category  : service
 
 item   :
-  - title : AirBnB Postcard
-    image : images/portfolio/portfolio-1.jpg
-    category  : photography
+  
+   - title : Beauty Products
+     image : images/portfolio/e1.gif
+     category  : ecommerce
+    
+  - title : Turmeric for Healthy Spices
+    image : images/portfolio/e2.gif
+    category  : ecommerce
 
-  - title : D Design
-    image : images/portfolio/portfolio-2.jpg
-    category  : ios, design
+  - title : Natural Dog Food
+    image : images/portfolio/e3.gif
+    category  : ecommerce  
+    
+  - title : Super Sale
+    image : images/portfolio/e4.gif
+    category  : ecommerce
 
-  - title : Xbox 360
-    image : images/portfolio/portfolio-3.jpg
-    category  : photography, development
-
-  - title : Ballon Card
-    image : images/portfolio/portfolio-4.jpg
-    category  : ios
-
-  - title : Ready Toons
-    image : images/portfolio/portfolio-5.jpg
-    category  : design
-
-  - title : Illustration
-    image : images/portfolio/portfolio-6.jpg
-    category  : development
+  - title : Theatre Ticket Voucher
+    image : images/portfolio/e5.gif
+    category  : ecommerce
+    
+  - title : Cyber Monday Sale
+    image : images/portfolio/e6.gif
+    category  : ecommerce  
+    
+   - title : Cyber Jacket for Sale
+    image : images/portfolio/e7.gif
+    category  : ecommerce  
+    
+   - title : Top Trending Selected Item
+    image : images/portfolio/e8.gif
+    category  : ecomerce
+   
