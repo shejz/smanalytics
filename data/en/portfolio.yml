@@ -4,39 +4,39 @@ title   : WORK SHOWCASE.
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 
 filtermenu :
-  - name      : Photography
-    category  : photography
+  - name      : E-commerce
+    category  : ecom
 
-  - name      : Ios App
-    category  : ios
+  - name      : Food
+    category  : food
 
-  - name      : Development
-    category  : development
+  - name      : Travel
+    category  : travel
 
-  - name      : Design
-    category  : design
+  - name      : Real-Estate
+    category  : rs
 
 item   :
-  - title : AirBnB Postcard
+  - title : Beauty Products
     image : images/portfolio/e1.gif
-    category  : photography
+    category  : ecom
 
-  - title : D Design
+  - title : Turmeric for Healthy Spices
     image : images/portfolio/e2.gif
-    category  : ios, design
+    category  : ecom, food
 
-  - title : Xbox 360
+  - title : Natural Dog Food
     image : images/portfolio/e3.gif
-    category  : photography, development
+    category  : ecom
 
-  - title : Ballon Card
+  - title : Super Sale
     image : images/portfolio/e4.gif
-    category  : ios
+    category  : ecom
 
-  - title : Ready Toons
+  - title : Theatre Ticket Voucher
     image : images/portfolio/e5.gif
-    category  : design
+    category  : ecom
 
-  - title : Illustration
+  - title : Cyber Monday Sale
     image : images/portfolio/e6.gif
-    category  : development
+    category  : ecom
