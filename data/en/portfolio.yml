@@ -66,35 +66,11 @@ item   :
     
   - title : Ginger Latte
     image : images/portfolio/food3.gif
-    category  : food  
-  
-  - title : Taxi App
+    category  : food 
+    
+  - title : Taxi Apps
     image : images/portfolio/service1.gif
-    category  : service
-
-  - title : Marketing Awareness
-    image : images/portfolio/service2.gif
-    category  : service
-    
-  - title : Back-Office Data Entry
-    image : images/portfolio/service3.gif
-    category  : service
-    
-  - title : Digital Marketing
-    image : images/portfolio/service4.gif
-    category  : service
-    
-  - title : Data Reporting
-    image : images/portfolio/service5.gif
-    category  : service
-    
- - title :  Video Marketing Strategy
-    image : images/portfolio/service6.gif
-    category  : service  
-    
-  - title : Video Marketing
-    image : images/portfolio/service7.gif
-    category  : service
-    
-    
-    
+    category  : servie  
+  
+ 
+ 
