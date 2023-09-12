@@ -101,6 +101,10 @@ item   :
   - title : Video Marketing
     image : images/portfolio/service7.gif
     category  : service
+    
+  - title : Digital Marketing
+    image : images/portfolio/service8.gif
+    category  : service
   
   - title : Mountain Journey
     image : images/portfolio/travel1.gif
