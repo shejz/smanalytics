@@ -114,7 +114,7 @@ footerDescription = "In the world of social media marketing, data is gold. I don
 footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
-footerSubscribeTitle = "Subscribe"
+footerSubscribeTitle = "Email Me"
 
 
 # cookies
@@ -140,7 +140,7 @@ title = "I have explored the digital landscape with passion for a long time"
 description = "With a seasoned perspective cultivated through years of dedicated exploration in the digital domain, I'm primed to elevate your brand's online presence. Let's collaborate to navigate the intricate landscape of the digital world, where experience meets expertise, forging a path toward your brand's triumphant online future."
 
 # Blog Section On Homepage
-[Languages.en.params.blog]
+[Languages.en.params.casestudy]
 enable = true
 topTitle = "DIGITAL MARKETING"
 title = "Case Studies"
@@ -189,8 +189,8 @@ name = "portfolio"
 url = "portfolio/"
 weight = 4
 [[menu.nav]]
-name = "blog"
-url = "blog/"
+name = "casestudy"
+url = "casestudy/"
 weight = 5
 [[menu.nav]]
 name = "contact"
@@ -199,7 +199,7 @@ weight = 6
  
 # Footer Service Menu
 [[menu.service]]
-name = "digitalcontent"
+name = "digitalmarketing"
 url = "service/"
 weight = 1
 [[menu.service]]
@@ -211,24 +211,16 @@ name = "motiongraphics"
 url = "service/"
 weight = 3
 [[menu.service]]
-name = "marketinganalytics"
+name = "dataanalytics"
 url = "service/"
 weight = 4
 
 # Footer Quick links Menu
 [[menu.quicklink]]
 name = "casestudy"
-url = "blog/"
+url = "about/"
 weight = 1
 [[menu.quicklink]]
-name = "about"
+name = "smc"
 url = "about/"
 weight = 2
-[[menu.quicklink]]
-name = "faqs"
-url = "about/"
-weight = 3
-[[menu.quicklink]]
-name = "badges"
-url = "about/"
-weight = 4

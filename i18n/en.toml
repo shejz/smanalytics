@@ -4,21 +4,21 @@ other = "About"
 other = "Service"
 [portfolio]
 other = "Portfolio"
-[blog]
-other = "Blog"
+[casestudy]
+other = "Case Study"
 [contact]
 other = "Contact"
 
+[digitalmarketing]
+other = "Digital Marketing"
 [graphicdesign]
 other = "Graphic Design"
-[webdesign]
-other = "Web Design"
-[webdevelopment]
-other = "Web Development"
+[motiongraphics]
+other = "Motion Graphics"
+[dataanalytics]
+other = "Data Analytics"
 
-[partners]
-other = "Partners"
-[faqs]
-other = "FAQ's"
-[badges]
-other = "Badges"
+[casestudy]
+other = "Case Study"
+[smc]
+other = "Social Media Content"
