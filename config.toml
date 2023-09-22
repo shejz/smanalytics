@@ -211,9 +211,13 @@ name = "motiongraphics"
 url = "service/"
 weight = 3
 [[menu.service]]
-name = "dataanalytics"
+name = "animatedvideo"
 url = "service/"
 weight = 4
+[[menu.service]]
+name = "dataanalytics"
+url = "service/"
+weight = 5
 
 # Footer Quick links Menu
 [[menu.quicklink]]
