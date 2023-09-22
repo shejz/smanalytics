@@ -2,12 +2,15 @@ enable  : true
 item    :
   - positionRight : false
     image : images/about/about-1.jpg
-    title : Creativity is in our blood
+    title : Social Media Marketing Strategy
     description : >
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+        Let's create a Social Media Marketing Strategy that will elevate your brand, engage your audience, and drive growth. 
+        It's not just about getting likes; it's about building a community of loyal followers. I'll strategize to boost your social media presence, 
+        increase engagement, and drive meaningful conversions. From organic growth to targeted ad campaigns,
+        I've got the winning formula to expand your digital footprint.
 
   - positionRight : true
     image : images/about/about-2.jpg
-    title : We think out of the Box
+    title :  Data-Driven Excellence
     description : >
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+       In the digital world, success is measured by data. I don't just set and forget – I constantly analyze the performance of your social media campaigns. By monitoring key metrics and adjusting strategies accordingly, I ensure that your investment in social media marketing yields a high return. Your brand's growth is my priority, and data is the compass that guides us.

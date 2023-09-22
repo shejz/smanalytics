@@ -104,13 +104,13 @@ btnText = "Nous contacter"
 [Languages.en]
 weight = 2
 languageCode = "en-us"
-title = "Example site multi-language"
+title = "Shiela's Social Media Marketer"
 dateFormat = "January 2, 2006"
 home = "Home"
 logo = "images/logo.png"
 menufixed = false
 
-footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+footerDescription = "In the world of social media marketing, data is gold. I don't just implement strategies and hope for the best. I continuously monitor, analyze, and adapt to ensure your campaigns are on the right track. By staying agile and data-driven, I maximize your ROI and keep you ahead of the competition."
 footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
@@ -125,8 +125,8 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable = true
-heading = "We love to make brands grow"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+heading = "I love to make brands grow"
+description = "In the dynamic world of social media marketing, my heart beats to one resounding rhythm: the exhilaration of cultivating brand growth. It's not just a job; it's my lifelong passion. With each campaign, I embark on a journey to breathe life into brands, propelling them towards new heights. I thrive on the art of creating strategies that are as unique as the brands themselves, strategies that ignite engagement, foster loyalty, and drive tangible results. My devotion lies in nurturing brands, shaping their narratives, and watching them flourish in the digital realm. When you partner with me, you're not just hiring a social media marketer; you're gaining a passionate ally who is wholeheartedly dedicated to making your brand's success story a reality. So, let's embark on this exciting journey together, and together, we'll watch your brand soar."
 button = true
 btnText = "Know More"
 btnURL = "https://themefisher.com/"
