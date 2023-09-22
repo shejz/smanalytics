@@ -140,7 +140,7 @@ title = "I have explored the digital landscape with passion for a long time"
 description = "With a seasoned perspective cultivated through years of dedicated exploration in the digital domain, I'm primed to elevate your brand's online presence. Let's collaborate to navigate the intricate landscape of the digital world, where experience meets expertise, forging a path toward your brand's triumphant online future."
 
 # Blog Section On Homepage
-[Languages.en.params.casestudy]
+[Languages.en.params.blog]
 enable = true
 topTitle = "DIGITAL MARKETING"
 title = "Case Studies"
@@ -189,8 +189,8 @@ name = "portfolio"
 url = "portfolio/"
 weight = 4
 [[menu.nav]]
-name = "casestudy"
-url = "casestudy/"
+name = "blog"
+url = "blog/"
 weight = 5
 [[menu.nav]]
 name = "contact"
