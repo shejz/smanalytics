@@ -1,16 +1,16 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-bulb-outline
-    title : Creative Digital Content
+  - icon  : tf-ion-ios-eye-outline
+    title : WordPress Theme
+    description : >
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon  : tf-ion-ios-happy-outline
+    title : Responsive Design
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
   - icon  : tf-ion-ios-megaphone-outline
-    title : Social Media Campaign Ads
-    description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
-
-  - icon  : tf-ion-ios-stats-chart-outline
-    title : Data Analytics
+    title : Media & Advertisement
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
