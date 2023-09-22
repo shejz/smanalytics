@@ -1,16 +1,16 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-eye-outline
+  - icon  : tf-ion-ios-laptop-outline
     title : WordPress Theme
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
-  - icon  : tf-ion-ios-happy-outline
+  - icon  : tf-ion-ios-chart-outline
     title : Responsive Design
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
-  - icon  : tf-ion-ios-megaphone-outline
+  - icon  : tf-ion-ios-magnet-outline
     title : Media & Advertisement
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
