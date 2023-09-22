@@ -1,25 +1,21 @@
 enable : true
 item    :
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-1.jpg
-    clientName  : Matt Cutts
-    clientDesignation: CEO , Company Name
+      I recently had the pleasure of encountering some truly outstanding animated video ads as part of a real estate marketing campaign on social media.  The attention to detail and the seamless animations brought the properties to life. Furthermore, the animated video ads were optimized for social media, with their concise duration and visually appealing format. They were easily shareable, making them the type of content that catches the attention of viewers and generates buzz organically.
+    clientThumb : images/client-logo/lumina_L.jpg
+    clientName  : Wilvi Delmoro
+    clientDesignation: Real Estate  , Lumina Homes
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-2.jpg
-    clientName  : Elon Mask
-    clientDesignation: CEO , Company Name
+      The promotional video for the product Gourmet is an absolute winner. Its attention-grabbing visuals, create a truly unforgettable viewing experience. It successfully conveys the unique qualities of Gourmet and leaves viewers craving for more. I have no doubt that this video will have a significant impact on the product's successs.
+    clientThumb : images/client-logo/rkitchen.jpg
+    clientName  : Wenz Permejo
+    clientDesignation: E-commerce , RKitchen PH
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-1.jpg
-    clientName  : Matt Cutts
-    clientDesignation: CEO , Company Name
+      One of the standout features of the dashboard templates is its ability to generate insightful reports and charts. Through the MS Excel VBA automation, we can effortlessly extract and analyze data, ensuring that the right information is presented to the right stakeholders at the right time. The interactive charts and graphs provide a clear overview of patient flow, bed occupancy, wait times, and other critical metrics, enabling us to allocate resources efficiently and enhance operational efficiency.
+    clientThumb : images/client-logo/logo_main.jpg
+    clientName  : Joan Lagmay
+    clientDesignation: Healthcare , Taif Children's Hospital
 
-  - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-2.jpg
-    clientName  : Elon Mask
-    clientDesignation: CEO , Company Name
+  
