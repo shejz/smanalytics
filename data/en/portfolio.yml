@@ -7,23 +7,13 @@ filtermenu :
   - name      : E-commerce
     category  : ecom
   
-  - name      : Healthcare
-    category  : health
-
   - name      : Food
     category  : food
 
   - name      : Travel
     category  : travel
 
-  - name      : Real-Estate
-    category  : rs
-    
-  - name      : Events
-    category  : events
-    
-  - name      : Service
-    category  : service
+
 
 item   :
   - title : Beauty Products
@@ -74,73 +64,14 @@ item   :
     image : images/portfolio/food3.gif
     category  : food 
     
-  - title : Taxi Apps
-    image : images/portfolio/service1.gif
-    category  : service 
-    
-  - title : Marketing Awareness
-    image : images/portfolio/service2.gif
-    category  : service 
-    
-  - title : Back-Office Data Entry
-    image : images/portfolio/service3.gif
-    category  : service 
-    
-  - title : Digital Marketing
-    image : images/portfolio/service4.gif
-    category  : service
-    
-  - title : Data Reporting
-    image : images/portfolio/service5.gif
-    category  : service
-    
-  - title : Video Marketing Strategy
-    image : images/portfolio/service6.gif
-    category  : service
-    
-  - title : Video Marketing
-    image : images/portfolio/service7.gif
-    category  : service
-    
-  - title : Video Marketing Cover
-    image : images/portfolio/service8.gif
-    category  : service
   
   - title : Mountain Journey
     image : images/portfolio/travel1.gif
     category  : travel
   
-  - title : Cycling Bike Race
-    image : images/portfolio/events1.gif
-    category  : events
+ 
     
-  - title : Christmas Season Promo
-    image : images/portfolio/events2.gif
-    category  : events
-    
-  - title : Rkitchen Christma Promo
-    image : images/portfolio/events3.gif
-    category  : events
-    
-  - title : World Food Day
-    image : images/portfolio/events4.gif
-    category  : events
-    
-  - title : Lumina Homes Gazebo
-    image : images/portfolio/rs1.gif
-    category  : rs
-    
-  - title : Lumina Armina Homes
-    image : images/portfolio/rs2.gif
-    category  : rs
-    
-  - title : Lumina Homes Ads
-    image : images/portfolio/rs3.gif
-    category  : rs
-    
-  - title : Lumina Homes Ads
-    image : images/portfolio/rs4.gif
-    category  : rs
+  
     
   
     
