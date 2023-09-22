@@ -37,7 +37,7 @@ description = "This is meta description"
 [Languages.fr]
 weight = 1
 languageCode = "fr-fr"
-title = "FRANCAIS Example site multi-language"
+title = "Lala"
 dateFormat = "2 January 2006"
 
 home = "Home"
@@ -140,7 +140,7 @@ title = "I have explored the digital landscape with passion for a long time"
 description = "With a seasoned perspective cultivated through years of dedicated exploration in the digital domain, I'm primed to elevate your brand's online presence. Let's collaborate to navigate the intricate landscape of the digital world, where experience meets expertise, forging a path toward your brand's triumphant online future."
 
 # Blog Section On Homepage
-[Languages.en.params.blog]
+[Languages.en.params.casestudy]
 enable = true
 topTitle = "DIGITAL MARKETING"
 title = "Case Studies"
@@ -172,7 +172,6 @@ title = "Let's Create Something Together"
 subtitle = "Let's start the conversation, understand your goals, and craft a social media strategy that propels your brand to new heights. Reach out to me today, and let's embark on this exciting journey together! "
 btnText = "Contact Me"
 
-# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
 # Site Menus
 [menu]
@@ -191,7 +190,7 @@ url = "portfolio/"
 weight = 4
 [[menu.nav]]
 name = "casestudy"
-url = "blog/"
+url = "casestudy/"
 weight = 5
 [[menu.nav]]
 name = "contact"
@@ -203,11 +202,22 @@ weight = 6
 name = "digitalcontent"
 url = "service/"
 weight = 1
-
+[[menu.service]]
+name = "graphicdesign"
+url = "service/"
+weight = 2
+[[menu.service]]
+name = "motiongraphics"
+url = "service/"
+weight = 3
+[[menu.service]]
+name = "marketinganalytics"
+url = "service/"
+weight = 4
 
 # Footer Quick links Menu
 [[menu.quicklink]]
-name = "partners"
+name = "casestudy"
 url = "about/"
 weight = 1
 [[menu.quicklink]]
