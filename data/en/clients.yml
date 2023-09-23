@@ -9,13 +9,14 @@ servicelist:
   - name    : Growth Hackers
   - name    : Marketing Expert
 clientLogo:
-  - image   : images/client-logo/hootsuite.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
+  - image   : images/client-logo/logo_1 (1).svg
+  - image   : images/client-logo/logo_1 (2).svg
+  - image   : images/client-logo/logo_1 (3).svg
+  - image   : images/client-logo/logo_1 (4).svg
+  - image   : images/client-logo/logo_1 (5).svg
+  - image   : images/client-logo/logo_1 (6).svg
+  - image   : images/client-logo/logo_1 (7).svg
+  - image   : images/client-logo/logo_1 (8).svg
+  - image   : images/client-logo/logo_1 (9).svg
+  - image   : images/client-logo/logo_1 (10).svg
+  - image   : images/client-logo/logo_1 (11).svg
