@@ -1,11 +1,11 @@
 enable    : true
-title     : We care about my work
+title     : I care about my work
 description: >
    As a digital marketer, it is crucial to possess a diverse range of skills to achieve success. Constantly seeking fresh ideas and strategies with an innovative mindset is vital in outpacing competitors. Creativity plays a significant role in creating compelling content that resonates with your target audience. Problem-solving skills are also essential in this fast-paced industry, as they enable marketers to overcome a variety of challenges, from engagement issues to technical obstacles, by analyzing data and developing effective solutions. Additionally, growth marketing relies heavily on data-driven strategies that make use of analytics, A/B testing, and experimentation to drive sustainable business growth through increased user acquisition, retention, and revenue.
 image     : images/about/about-1.jpg
 servicelist:
   - name    : Innovative Mindset
-  - name    : Creative Thinkers
+  - name    : Creative Thinker
   - name    : Problem Solving
   - name    : Growth Marketing 
 clientLogo:
