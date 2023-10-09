@@ -7,7 +7,7 @@ subtitle : I have successfully implemented a range of solutions for clients, inc
 item  :
   - name        : Data Analytics
     price       : 
-    description : Perfect for single freelancers who work by themselves
+    description : Extracting insights from digital metrics for informed decisions.
     featurelist :
       - item: Business Metrics 
       - item: Dashboard and Report
@@ -18,7 +18,7 @@ item  :
 
   - name        : Video Marketing
     price       : 
-    description : Suitable for small businesses with up to 5 employees
+    description : Innovative video strategies that captivate, engage, and drive digital marketing success.
     featurelist :
       - item: Explainer 
       - item: Promotional
@@ -29,7 +29,7 @@ item  :
 
   - name        : Business Case Studies
     price       : 
-    description : Great for large businesses with more than 5 employees
+    description : Real-world examples showcasing digital marketing strategies and their impact.
     featurelist :
       - item: Market Basket
       - item: Product Analysis
