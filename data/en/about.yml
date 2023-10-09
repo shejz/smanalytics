@@ -1,7 +1,7 @@
 enable  : true
 item    :
   - positionRight : false
-    image : images/about/about-1.jpg
+    image : images/about/about-1.gif
     title : Social Media Marketing Strategy
     description : >
         Let's create a Social Media Marketing Strategy that will elevate your brand, engage your audience, and drive growth. 
@@ -10,7 +10,7 @@ item    :
         I've got the winning formula to expand your digital footprint.
 
   - positionRight : true
-    image : images/about/about-2.jpg
+    image : images/about/about-2.gif
     title :  Data-Driven Excellence
     description : >
        In the digital world, success is measured by data. I don't just set and forget – I constantly analyze the performance of your social media campaigns. By monitoring key metrics and adjusting strategies accordingly, I ensure that your investment in social media marketing yields a high return. Your brand's growth is my priority, and data is the compass that guides us.
