@@ -1,44 +1,39 @@
 enable  : true
-topTitle: EASY PRICING
-title   : Pricing.
-subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: SOLUTIONS FOR CLIENTS
+title   : Solutions.
+subtitle : I have successfully implemented a range of solutions for clients, including data analytics, video marketing, and business case studies. By harnessing the power of data analysis, we gained valuable insights that enabled us to optimize social media campaigns, resulting in improved engagement rates and higher conversions. Through strategic video marketing approaches, clients experienced enhanced brand presence, greater audience retention, and increased customer loyalty. Furthermore, our compelling business case studies served as powerful marketing tools, building credibility, attracting new prospects, and influencing purchase decisions.
+
 
 item  :
-  - name        : BASIC
-    price       : $99
+  - name        : Data Analytics
+    price       : 
     description : Perfect for single freelancers who work by themselves
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: Business Metrics 
+      - item: Dashboard and Report
+      - item: Text Analysis (Reviews and Feedback)
+      - item: Website Traffic and User Behavior
+    btnText     : Details
+    btnURL      : 
 
-  - name        : ADVANCE
-    price       : $199
+  - name        : Video Marketing
+    price       : 
     description : Suitable for small businesses with up to 5 employees
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: Explainer 
+      - item: Promotional
+      - item: Advertisement
+      - item: Whiteboard
+    btnText     : Details
+    btnURL      : 
 
-  - name        : PROFESSIONAL
-    price       : $299
+  - name        : Business Case Studies
+    price       : 
     description : Great for large businesses with more than 5 employees
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: Market Basket
+      - item: Product Analysis
+      - item: Customer Segmentation
+      - item: A/B testing
+    btnText     : Details
+    btnURL      : 
