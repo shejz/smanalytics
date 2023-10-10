@@ -1,13 +1,14 @@
 enable    : true
 topTitle   : LITTLE MORE BRIEF
-title     : About Us.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+title     : About Me.
+subtitle  : As a data analyst specialized in digital marketing, I have a passion for uncovering hidden patterns and insights within complex datasets. 
+transform raw information into actionable strategies that drive successful marketing business.
 tabItem   :
   - id        : philosophy
     title     : Our Philosophy
     heading   : We Create Designs and technology
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      In today's digital world, data is the lifeblood of effective marketing. That's why I am passionate about bringing data science and digital marketing together. By combining these two powerful disciplines, I unlock the full potential of your marketing efforts. Every click, impression, and interaction tells a story, and with our expertise, I can decode that story and provide you with actionable insights to help you grow your business. My mission is to empower you with the tools you need to make informed decisions, drive innovation, and maximize your ROI.
     image     : images/company/company-image.jpg
 
   - id        : mission
