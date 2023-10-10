@@ -1,31 +1,31 @@
 enable  : true
-topTitle: TEAM MEMBER
-title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: MARKETING MATERIALS
+title   : Business Strategies.
+subtitle: In the ever-evolving digital landscape, these marketing materials play a pivotal role in shaping the success of businesses.
+          Together, these elements empower businesses to thrive in the digital age, creating connections, driving conversions, and leaving an indelible mark in a crowded digital world.
 
 member  :
   - image         : images/team/member-1.jpg
     name          : Documentation and Presentation
     designation   : 
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      Comprehensive guides and impactful presentations convey digital marketing strategies clearly and persuasively.
 
   - image         : images/team/member-2.jpg
     name          : Landing Page
     designation   : 
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      A landing page is a standalone web page designed to capture visitor information or prompt specific actions, often used in advertising campaigns to drive conversions.
    
 
   - image         : images/team/member-3.jpg
     name          : Web Development
     designation   : 
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      Effective web development ensures a user-friendly and responsive online platform, essential for a successful digital marketing campaign.
     
   - image         : images/team/member-4.jpg
-    name          : Marketing Materials
+    name          : Multimedia Content
     designation   : 
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    
+      Engaging multimedia content, including videos, images, and infographics, captivates audiences and boosts digital marketing strategies' effectiveness.
