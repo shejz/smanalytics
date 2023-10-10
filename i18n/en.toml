@@ -9,18 +9,15 @@ other = "Blog"
 [contact]
 other = "Contact"
 
-[digitalmarketing]
-other = "Digital Marketing"
-[graphicdesign]
-other = "Graphic Design"
-[motiongraphics]
-other = "Motion Graphics"
+[digitalcontent]
+other = "Digital Content"
 [dataanalytics]
 other = "Data Analytics"
-[animatedvideo]
-other = "Animated Video"
+[socialmediamarketing]
+other = "Social Media Marketing"
 
+[aboutme]
+other = "About Me"
 [casestudy]
 other = "Case Study"
-[smc]
-other = "Social Media Content"
+

@@ -125,7 +125,7 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable = true
-heading = "I love to make brands grow"
+heading = "I love to make brand grow"
 description = "I embark on a journey to breathe life into brands, propelling them towards new heights. I thrive on the art of creating strategies that are as unique as the brands themselves, strategies that ignite engagement, foster loyalty, and drive tangible results. My devotion lies in nurturing brands, shaping their narratives, and watching them flourish in the digital realm. When you partner with me, you're not just hiring a social media marketer; you're gaining a passionate ally who is wholeheartedly dedicated to making your brand's success story a reality. So, let's embark on this exciting journey together, and together, I'll watch your brand soar."
 button = true
 btnText = "Know More"
@@ -152,7 +152,7 @@ enable = true
 topTitle = "GET IN TOUCH"
 title = "Contact Me."
 subtitle = "Let's start the conversation, understand your goals, and craft a social media strategy that propels your brand to new heights. Reach out to me today, and let's embark on this exciting journey together!"
-address = "4B Sampaguita Street <br> Sto. Rosario Silangan , Pateros Metro Manila"
+address = "41B Sampaguita Street <br> Sto. Rosario Silangan , Pateros Metro Manila"
 email = "shiela.jimenez01@gmail.com"
 phone = "+63 936 7766 932"
 facebook = "https://www.facebook.com/icreatesolutions.tech"
@@ -199,32 +199,25 @@ weight = 6
  
 # Footer Service Menu
 [[menu.service]]
-name = "digitalmarketing"
+name = "digitalcontent"
 url = "service/"
 weight = 1
 [[menu.service]]
-name = "graphicdesign"
+name = "socialmediamarketing"
 url = "service/"
 weight = 2
 [[menu.service]]
-name = "motiongraphics"
-url = "service/"
-weight = 3
-[[menu.service]]
-name = "animatedvideo"
-url = "service/"
-weight = 4
-[[menu.service]]
 name = "dataanalytics"
 url = "service/"
-weight = 5
+weight = 3
+
 
 # Footer Quick links Menu
 [[menu.quicklink]]
-name = "casestudy"
+name = "aboutme"
 url = "about/"
 weight = 1
 [[menu.quicklink]]
-name = "smc"
+name = "casestudy"
 url = "about/"
 weight = 2
