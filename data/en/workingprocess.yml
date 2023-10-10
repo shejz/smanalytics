@@ -1,6 +1,6 @@
 enable  : true
-topTitle: HOW WE WORKS
-title   : Our Work Process
+topTitle: HOW I WORK
+title   : My Work Process
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 item    :
   - number  : 1
@@ -22,6 +22,18 @@ item    :
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
 
   - number  : 4
+    icon    : tf-ion-ios-locked-outline
+    title   : Secure System
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      
+  - number  : 5
+    icon    : tf-ion-ios-locked-outline
+    title   : Secure System
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      
+  - number  : 6
     icon    : tf-ion-ios-locked-outline
     title   : Secure System
     description : >
